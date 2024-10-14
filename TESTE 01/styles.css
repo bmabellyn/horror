@@ -1,0 +1,46 @@
+body {
+    font-family: 'Matemasie', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    font-size: 25px;
+    background-color: #b81414; /* Verde */
+    color: rgba(255, 255, 255, 0.986);
+    text-align: center;
+    padding: 20px;
+}
+
+.search-bar {
+    margin-top: 10px;
+    padding: 10px;
+    border: 2px solid #240738d7;
+    border-radius: 5px;
+    width: 80%;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.post {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0);
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #b81414;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
